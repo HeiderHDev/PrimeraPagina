@@ -1,2 +1,2 @@
 # PrimeraPagina
-Mi primera página realiza en html y CSS
+Mi primera página realizada en html y CSS
